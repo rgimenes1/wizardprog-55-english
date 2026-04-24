@@ -14,7 +14,7 @@ The following software versions are available in this repository:
 
 In December 2005, during a business trip to Moscow, I purchased a WizardProg-55 programmer. After writing maybe three EPROMs, I left it tucked away for 20 years. In February 2025, I regained interest in retrocomputing projects and found it among my old belongings. Unfortunately, the original software CD had delaminated and was unreadable.
 
-I contacted the still-active **WizardProg** company, and Mr. **Sergey Menylyshev** was kind enough to send me a copy of the original Russian software. Recently, I used **Claude Code** to binary-edit the executable (.exe), replacing the original Russian strings with English. Some remaining Chinese text was also translated. Due to the constraints of the original string lengths in the binary, some translations had to be truncated or abbreviated.
+I contacted the still-active [WizardProg](https://www.wizardprog.com) company, and Mr. **Sergey Menylyshev** was kind enough to send me a copy of the original Russian software. Recently, I used **Claude Code** to binary-edit the executable (.exe), replacing the original Russian strings with English. Some remaining Chinese text was also translated. Due to the constraints of the original string lengths in the binary, some translations had to be truncated or abbreviated.
 
 During this process, I discovered that the WizardProg-55 is a clone of the Chinese **TOP2000B** programmer, manufactured by **ty51** (http://www.ty51.com) — also known as *Changxing Jinggong Technology Development Company* — which apparently ceased operations around 2012. Various versions of the TOP2000B original software can still be found via the [Wayback Machine](https://web.archive.org/web/sitemap/http://www.ty51.com).
 
