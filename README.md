@@ -16,7 +16,7 @@ In December 2005, during a business trip to Moscow, I purchased a WizardProg-55 
 
 I contacted the still-active [WizardProg](https://www.wizardprog.com) company, and Mr. **Sergey Menylyshev** was kind enough to send me a copy of the original Russian software. Recently, I used [Claude Code](https://claude.com/product/claude-code) to binary-edit the executable (.exe), replacing the original Russian strings with English. Some remaining Chinese text was also translated. Due to the constraints of the original string lengths in the binary, some translations had to be truncated or abbreviated.
 
-During this process, I discovered that the WizardProg-55 is a clone of the Chinese **TOP2000B** programmer, manufactured by **ty51** (http://www.ty51.com) — also known as *Changxing Jinggong Technology Development Company* — which apparently ceased operations around 2012. Various versions of the TOP2000B original software can still be found via the [Wayback Machine](https://web.archive.org/web/sitemap/http://www.ty51.com).
+During this process, I discovered that the WizardProg-55 is a clone of the Chinese **TOP2000B** programmer, manufactured by **ty51** (`www.ty51.com`) — also known as *Changxing Jinggong Technology Development Company* — which apparently ceased operations around 2012. Various versions of the TOP2000B original software can still be found via the [Wayback Machine](https://web.archive.org/web/sitemap/http://www.ty51.com).
 
 ## Hardware Gallery
 
