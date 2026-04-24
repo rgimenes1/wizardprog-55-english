@@ -34,6 +34,6 @@ During this process, I discovered that the WizardProg-55 is a clone of the Chine
 
 ## Technical Notes
 
-- **Compatibility:** Works on Windows XP SP3 (32-bit) and Windows 10 (64-bit).
+- **Compatibility:** Tested on Windows 10 (64-bit) and Windows XP SP3 (32-bit).
 - **Interface:** Requires a Serial RS232 connection. Tested successfully with a Prolific PL2303-HX USB adapter.
-- **No Drivers Needed:** The software communicates directly via COM port, so no specific programmer drivers are required, only the driver for your Serial/USB adapter.
+- **No Drivers Needed:** The software communicates directly via COM port at 115200 bps, so no specific programmer drivers are required, only the driver for your Serial/USB adapter.
