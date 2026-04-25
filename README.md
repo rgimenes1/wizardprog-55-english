@@ -12,11 +12,11 @@ The following software versions are available in this repository:
 
 ## The Story Behind This Small Project
 
-In December 2005, during a business trip to Moscow, I purchased a WizardProg-55 programmer. After writing maybe three EPROMs, I left it tucked away for 20 years. In February 2025, I regained interest in retrocomputing projects and found it among my old belongings. Unfortunately, the original software CD had delaminated and was unreadable.
+In November 2005, during a business trip to Moscow, I purchased a WizardProg-55 device programmer. After programming perhaps three EPROMs over the course of a year, I left it tucked away for 20 years. In February 2025, I became interested in retrocomputing projects and found it among my old belongings. Unfortunately, the original software CD had delaminated and was unreadable.
 
 I contacted the still-active [WizardProg](https://www.wizardprog.com) company, and Mr. **Sergey Menylyshev** was kind enough to send me a copy of the original Russian software. Recently, I used [Claude Code](https://claude.com/product/claude-code) to binary-edit the executable (.exe), replacing the original Russian strings with English. Some remaining Chinese text was also translated. Due to the constraints of the original string lengths in the binary, some translations had to be truncated or abbreviated.
 
-During this process, I discovered that the WizardProg-55 is a clone of the Chinese **TOP2000B** programmer, manufactured by **ty51** (`www.ty51.com`) — also known as *Changxing Jinggong Technology Development Company* — which apparently ceased operations around 2012. Various versions of the TOP2000B original software can still be found via the [Wayback Machine](https://web.archive.org/web/sitemap/http://www.ty51.com).
+During this process, I discovered that the WizardProg-55 is a clone of the Chinese **TOP2000B** programmer, manufactured by **Top-Electronic** (`www.ty51.com`), which apparently ceased operations around 2012. Various versions of the TOP2000B original software can still be found via the [Wayback Machine](https://web.archive.org/web/sitemap/http://www.ty51.com).
 
 ## Hardware Gallery
 
@@ -36,4 +36,4 @@ During this process, I discovered that the WizardProg-55 is a clone of the Chine
 
 - **Compatibility:** Tested on Windows 10 (64-bit) and Windows XP SP3 (32-bit).
 - **Interface:** Requires a Serial RS232 connection. Tested successfully with a Prolific PL2303-HX USB adapter.
-- **No Drivers Needed:** The software communicates directly via COM port at 115200 bps, so no specific programmer drivers are required, only the driver for your Serial/USB adapter.
+- **No Drivers Needed:** The software communicates directly via COM port at 115200 bps, 8N1, no flow control, so no specific programmer drivers are required, only the driver for your Serial/USB adapter.
